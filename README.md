@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**vaibhav-karnwal/vaibhav-karnwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![Header](https://user-images.githubusercontent.com/64114079/91522625-18329b00-e8d1-11ea-9909-ac1d54bfbeeb.jpg)
+I'm Vaibhav Karnwal from India , and i am a Front End Developer. I really enjoy learning different technologies especially Web UI Designing and Android Designing, creating mockups , prototypes 
+etc.
 
 - 🔭 I’m currently working on Different personal projects.
 - 🌱 I’m currently learning Flutter
