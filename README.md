@@ -42,3 +42,7 @@ etc.
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-karnwal&langs_count=12&layout=compact&theme=onedark" alt="vaibhav-karnwal">
+
+<p align="center">
+    <img align="right" width="460" src="https://github-readme-stats.vercel.app/api/wakatime?username=vaibhav-karnwal&layout=compact">
+</p>
