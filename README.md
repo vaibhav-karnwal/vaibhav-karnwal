@@ -16,9 +16,9 @@ etc.
 ![vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhav-karnwal&hide=issues&show_icons=true&theme=onedark)
 
 ### Connect with me:
-[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github'  width="22px">](https://github.com/matiasbacelar98)
-[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin'  width="22px">](https://www.linkedin.com/in/matias-bacelar-371140199/)[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook'  width="22px">](https://www.facebook.com/matias.bacelar.5)
-[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram'  width="22px">](https://www.instagram.com/matibace/)  
+[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github'  width="22px">](https://github.com/vaibhav-karnwal)
+[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin'  width="22px">](https://www.linkedin.com/in/vaibhav-karnwal/)[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook'  width="22px">](https://www.facebook.com/its.me.vaibhavkarnwal)
+[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram'  width="22px">](https://www.instagram.com/vaibhavkarnwal2812/)  
 
 <br />
 
