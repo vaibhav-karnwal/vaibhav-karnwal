@@ -34,4 +34,4 @@ etc.
   <img src="https://github.com/vaibhav-karnwal/vaibhav-karnwal/blob/main/res/node.gif" alt="html5" width="50" height="60"/> 
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-karnwal&langs_count=7&layout=compact&theme=onedark" alt="vaibhav-karnwal">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-karnwal&langs_count=12&layout=compact&theme=onedark" alt="vaibhav-karnwal">
