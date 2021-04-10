@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<h1>Welcome geek <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+, Wonder to see you here<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!!! </h1>
 ![Header](https://user-images.githubusercontent.com/64114079/91522625-18329b00-e8d1-11ea-9909-ac1d54bfbeeb.jpg)
 I'm Vaibhav Karnwal from India , and i am a Front End Developer. I really enjoy learning different technologies especially Web UI Designing and Android Designing, creating mockups , prototypes 
 etc.
@@ -15,10 +17,13 @@ etc.
 
 ![vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhav-karnwal&hide=issues&show_icons=true)
 
-### Connect with me:
-[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github'  width="22px">](https://github.com/vaibhav-karnwal)
-[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin'  width="22px">](https://www.linkedin.com/in/vaibhav-karnwal/)[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook'  width="22px">](https://www.facebook.com/its.me.vaibhavkarnwal)
-[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram'  width="22px">](https://www.instagram.com/vaibhavkarnwal2812/)  
+<p align="left"><strong>Find me on</strong><br>
+  <a href="https://www.linkedin.com/in/vaibhav-karnwal/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="vaibhavkarnwal2812@gmail.com" target="_blank"><img align="center" alt="Gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://trorstphpuskxi3cchfhdg-on.drv.tw/www.myportfolio.com/" target="_blank"><img align="center" alt="portfolio" src="https://img.shields.io/badge/portfolio-gray.svg?&style=for-the-badge&logoColor=white" /></a>
+</p>
+<p align="right">⚡️<strong>Total Profile Hits</strong>⚡️<br>
+<img src="https://profile-counter.glitch.me/vaibhav-karnwal/count.svg" />
 
 <br />
 
