@@ -31,15 +31,20 @@ etc.
 
 <h3>Languages, Development tools and frameworks:</h3>
 <p>
-	<img src="https://github.com/vaibhav-karnwal/vaibhav-karnwal/blob/main/res/js.gif" height="70">
-	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="70"/>
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="60"/> 
+	<img src="https://github.com/vaibhav-karnwal/vaibhav-karnwal/blob/main/res/js.gif" width="50" height="60"/> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"width="50" height="60"/> 
   <img src="https://github.com/vaibhav-karnwal/vaibhav-karnwal/blob/main/res/html.gif" alt="html5" width="50" height="60"/> 
   <img src="https://github.com/vaibhav-karnwal/vaibhav-karnwal/blob/main/res/css.gif" alt="html5" width="50" height="60"/> 
   <img src="https://github.com/vaibhav-karnwal/vaibhav-karnwal/blob/main/res/bootstrap.gif" alt="html5" width="50" height="60"/> 
   <img src="https://github.com/vaibhav-karnwal/vaibhav-karnwal/blob/main/res/react.gif" alt="html5" width="50" height="60"/> 
   <img src="https://github.com/vaibhav-karnwal/vaibhav-karnwal/blob/main/res/django.png" alt="html5" width="50" height="60"/> 
   <img src="https://github.com/vaibhav-karnwal/vaibhav-karnwal/blob/main/res/node.gif" alt="html5" width="50" height="60"/> 
-	  <img src="https://github.com/vaibhav-karnwal/vaibhav-karnwal/blob/main/res/react.png" alt="react.js" width="50" height="60"/> 
+	[<img align="left" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png' alt='scss' width="50" height="60"/>](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png)
+	
+[<img align="left" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png' alt='git' width="50" height="60"/> ](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png)
+[<img align="left" src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png' alt='npm' width="50" height="60"/> ](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png)
+
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-karnwal&langs_count=9" alt="vaibhav-karnwal">
