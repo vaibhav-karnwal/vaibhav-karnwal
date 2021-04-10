@@ -13,7 +13,7 @@ etc.
 -->
 
 
-![vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhav-karnwal&hide=issues&show_icons=true&theme=onedark)
+![vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vaibhav-karnwal&hide=issues&show_icons=true)
 
 ### Connect with me:
 [<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github'  width="22px">](https://github.com/vaibhav-karnwal)
