@@ -8,7 +8,7 @@
 I'm Vaibhav Karnwal from India , and i am a Front End Developer. I really enjoy learning different technologies especially Web UI Designing and Android Designing, creating mockups , prototypes 
 etc.
 
-- 🔭 I’m currently working on Different personal projects.
+- 🔭 I’m currently doing internship in Ranawaj Power Solution Private Limited.
 - 🌱 I’m currently learning Flutter
 - 🤔 I’m looking for help with ...
 - 🥅 2021 Goals: Hired by any MNC
