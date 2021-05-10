@@ -28,7 +28,7 @@ etc.
 <img src="https://profile-counter.glitch.me/vaibhav-karnwal/count.svg" />
 
 <br />
-
+ ![wakatime stats](https://wakatime.com/share/@vaibhav-karnwal/35424954-e04a-45f9-802f-16c9f876fcc0.svg)
 <h3>Languages, Development tools and frameworks:</h3>
 <p>
 	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="50" height="60"/> 
