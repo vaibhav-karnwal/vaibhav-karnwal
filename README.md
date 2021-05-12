@@ -3,8 +3,6 @@
 <h1>Welcome geek <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 , Wonder to see you here<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!!! </h1>
 
-![Header](https://user-images.githubusercontent.com/64114079/91522625-18329b00-e8d1-11ea-9909-ac1d54bfbeeb.jpg)
-
 I'm Vaibhav Karnwal from India , and i am a Front End Developer. I really enjoy learning different technologies especially Web UI Designing and Android Designing, creating mockups , prototypes 
 etc.
 
