@@ -22,7 +22,7 @@ etc.
     <a href="vaibhavkarnwal2812@gmail.com" target="_blank"><img align="center" alt="Gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://trorstphpuskxi3cchfhdg-on.drv.tw/www.myportfolio.com/" target="_blank"><img align="center" alt="portfolio" src="https://img.shields.io/badge/portfolio-gray.svg?&style=for-the-badge&logoColor=white" /></a>
   </p>
-  <p align="left">⚡️<strong>Total Profile Hits</strong>⚡️<br>
+  <p align="right">⚡️<strong>Total Profile Hits</strong>⚡️<br>
     <img src="https://profile-counter.glitch.me/vaibhav-karnwal/count.svg" />
   </p>
 </p>
