@@ -6,6 +6,7 @@
 I'm Vaibhav Karnwal from India and I am a FrontEnd Developer. I really enjoy learning different technologies especially Web UI Designing and Android Designing, creating mockups, prototypes 
 etc.
 
+- 🔭 I’m currently working as a Software Engineer on React in Altimetrik India Private Limited Bangalore.
 - 🌱 I’m currently working on React Js, Redux, Jest, Boostrap, JavaScript, TypeScript, Scss, Css3, Html, AntD, React Testing Library.
 - 🤔 I’m looking for help with Reat APIs
 - 🥅 2025 Goals: Hired by any other MNC
@@ -19,7 +20,7 @@ etc.
   <p align="left"><strong>Find me on</strong><br>
     <a href="https://www.linkedin.com/in/vaibhav-karnwal/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="vaibhavkarnwal2812@gmail.com" target="_blank"><img align="center" alt="Gmail" src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://trorstphpuskxi3cchfhdg-on.drv.tw/www.myportfolio.com/" target="_blank"><img align="center" alt="portfolio" src="https://img.shields.io/badge/portfolio-gray.svg?&style=for-the-badge&logoColor=white" /></a>
+    <a href="https://vaibhav-karnwal.github.io/portfolio" target="_blank"><img align="center" alt="portfolio" src="https://img.shields.io/badge/portfolio-gray.svg?&style=for-the-badge&logoColor=white" /></a>
   </p>
   <p align="right">⚡️<strong>Total Profile Hits</strong>⚡️<br>
     <img src="https://profile-counter.glitch.me/vaibhav-karnwal/count.svg" />
