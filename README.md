@@ -3,13 +3,12 @@
 <h1>Welcome geek <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 , Wonder to see you here<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">!!! </h1>
 
-I'm Vaibhav Karnwal from India and I am a FrontEnd and Flutter Developer. I really enjoy learning different technologies especially Web UI Designing and Android Designing, creating mockups , prototypes 
+I'm Vaibhav Karnwal from India and I am a FrontEnd Developer. I really enjoy learning different technologies especially Web UI Designing and Android Designing, creating mockups, prototypes 
 etc.
 
-- 🔭 I’m currently doing internship in Ranawaj Power Solution Private Limited.
-- 🌱 I’m currently working on Flutter.
-- 🤔 I’m looking for help with Android APIs
-- 🥅 2021 Goals: Hired by any MNC
+- 🌱 I’m currently working on React Js, Redux, Jest, Boostrap, JavaScript, TypeScript, Scss, Css3, Html, AntD, React Testing Library.
+- 🤔 I’m looking for help with Reat APIs
+- 🥅 2025 Goals: Hired by any other MNC
 - 📫 How to reach me: Through my linkedin
 - ⚡ Fun fact: This time also I used to watch Korean drama's
 -->
